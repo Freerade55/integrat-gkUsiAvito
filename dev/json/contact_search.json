@@ -1,0 +1,166 @@
+{
+  "_page": 1,
+  "_links": {
+    "self": {
+      "href": "https://usikuban.amocrm.ru/api/v4/contacts?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+    }
+  },
+  "_embedded": {
+    "contacts": [
+      {
+        "id": 47057768,
+        "name": "Неизвестно",
+        "first_name": "",
+        "last_name": "",
+        "responsible_user_id": 8364786,
+        "group_id": 211243,
+        "created_by": 0,
+        "updated_by": 0,
+        "created_at": 1663836915,
+        "updated_at": 1667852491,
+        "closest_task_at": null,
+        "is_deleted": false,
+        "is_unsorted": false,
+        "custom_fields_values": [
+          {
+            "field_id": 500393,
+            "field_name": "Телефон",
+            "field_code": "PHONE",
+            "field_type": "multitext",
+            "values": [
+              {
+                "value": "4(444) 444-4444",
+                "enum_id": 1114935,
+                "enum_code": "OTHER"
+              }
+            ]
+          }
+        ],
+        "account_id": 14634202,
+        "_links": {
+          "self": {
+            "href": "https://usikuban.amocrm.ru/api/v4/contacts/47057768?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+          }
+        },
+        "_embedded": {
+          "tags": [],
+          "leads": [
+            {
+              "id": 29161216,
+              "_links": {
+                "self": {
+                  "href": "https://usikuban.amocrm.ru/api/v4/leads/29161216?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+                }
+              }
+            },
+            {
+              "id": 29236670,
+              "_links": {
+                "self": {
+                  "href": "https://usikuban.amocrm.ru/api/v4/leads/29236670?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+                }
+              }
+            },
+            {
+              "id": 29259470,
+              "_links": {
+                "self": {
+                  "href": "https://usikuban.amocrm.ru/api/v4/leads/29259470?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+                }
+              }
+            },
+            {
+              "id": 29275236,
+              "_links": {
+                "self": {
+                  "href": "https://usikuban.amocrm.ru/api/v4/leads/29275236?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+                }
+              }
+            },
+            {
+              "id": 29353124,
+              "_links": {
+                "self": {
+                  "href": "https://usikuban.amocrm.ru/api/v4/leads/29353124?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+                }
+              }
+            },
+            {
+              "id": 29364888,
+              "_links": {
+                "self": {
+                  "href": "https://usikuban.amocrm.ru/api/v4/leads/29364888?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+                }
+              }
+            },
+            {
+              "id": 29366038,
+              "_links": {
+                "self": {
+                  "href": "https://usikuban.amocrm.ru/api/v4/leads/29366038?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+                }
+              }
+            },
+            {
+              "id": 29369608,
+              "_links": {
+                "self": {
+                  "href": "https://usikuban.amocrm.ru/api/v4/leads/29369608?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+                }
+              }
+            },
+            {
+              "id": 29410188,
+              "_links": {
+                "self": {
+                  "href": "https://usikuban.amocrm.ru/api/v4/leads/29410188?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+                }
+              }
+            },
+            {
+              "id": 29443490,
+              "_links": {
+                "self": {
+                  "href": "https://usikuban.amocrm.ru/api/v4/leads/29443490?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+                }
+              }
+            },
+            {
+              "id": 29450290,
+              "_links": {
+                "self": {
+                  "href": "https://usikuban.amocrm.ru/api/v4/leads/29450290?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+                }
+              }
+            },
+            {
+              "id": 29462552,
+              "_links": {
+                "self": {
+                  "href": "https://usikuban.amocrm.ru/api/v4/leads/29462552?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+                }
+              }
+            },
+            {
+              "id": 29467972,
+              "_links": {
+                "self": {
+                  "href": "https://usikuban.amocrm.ru/api/v4/leads/29467972?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+                }
+              }
+            },
+            {
+              "id": 29468002,
+              "_links": {
+                "self": {
+                  "href": "https://usikuban.amocrm.ru/api/v4/leads/29468002?with=leads&query=%2B4+%28444%29+444+44+44&page=1&limit=50"
+                }
+              }
+            }
+          ],
+          "companies": []
+        }
+      }
+    ]
+  }
+}
